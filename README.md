@@ -1,4 +1,4 @@
-# DeepLeraningClassify
+# DeepLearningClassify
 Classificação de SPAM &amp; HAM em deeplearning
 
 Random pra randomizar os dados, spacy para trabalhar com texto;
